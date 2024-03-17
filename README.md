@@ -1,8 +1,8 @@
-- 👋 Olá, Eu sou a Maria Vitória
--
-- 👀 Hoje trabalho como Assistente Adminitrativo
-- 🌱 Estou estudando JavaScript
-- 💞️ Pronouns: ela/dela
+- 👋 Olá, Eu sou a Vitória Santos
+
+- 👀 Cursando técnico em Administração
+- 🌱 Curso de Desenvolvedor FullStack do Programador BR
+- 💞️ Tenho 21 anos
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mary-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
